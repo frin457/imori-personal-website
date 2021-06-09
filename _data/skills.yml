@@ -4,34 +4,31 @@ subheader: Some of the techniques I have acquired over the years through profess
 
 skill_list:
   - name: Material Characterization
-    description: Primarily from my experience with semiconductors, I am proficient with SEM, AFM, XRD, XPS, SIMs, TXRF, and several more characterization techniques, commonly used to 
-    quantify material properties. 
+    description: Primarily from my experience with semiconductors, I am proficient with SEM, AFM, XRD, XPS, SIMs, TXRF, and several more characterization techniques, commonly used to quantify material properties. 
 
   - name: Electric Bass
-    description: I began learning at the start of the global pandemic in 2020. At this time of writing I evaluate myself as a beginner level bass player, but I have been improving
-    at a pace I am proud of!
+    description: I began learning at the start of the global pandemic in 2020. At this time of writing I evaluate myself as a beginner level bass player, but I have been improving at a pace I am proud of!
 
   - name: Button Masher
-    description: Depending on who you ask, there is very little thought or method to my actions in games and other competitive media. I have no comment on that opinion, but I will warn
-    you that I love games that require high levels of physical "execution" or precision!
+    description: Depending on who you ask, there is very little thought or method to my actions in games and other competitive media. I have no comment on that opinion, but I will warn you that I love games that require high levels of physical "execution" or precision!
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: N/A
     topics:
       - Topic 1A
       - Topic 1B
       - Topic 1C
       - Topic 1D
 
-  - name: Certification 2
+  - name: N/A
     topics:
       - Topic 2A
       - Topic 2B
       - Topic 2C
       - Topic 2D
 
-  - name: Certification 3
+  - name: N/A
     topics:
       - Topic 3A
       - Topic 3B
