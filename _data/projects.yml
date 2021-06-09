@@ -1,13 +1,18 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: CIGs solar panel
+  description: Copper Indium Gallium DiSelenide (CIGs) solar panels are a thin solar solution that; over the last decade; has seen significant increases in effeciency, with steady decreases in manufacturing costs.
+  I was fortunate enough to get elbow deep into CIGs characterization during my undergraduate studies at SUNY POLY, with the E2TAC research team!
+  
+- name: Design evaluation
+  description: As technology ever advances it's imperative to stay up to date on new developments. However, it is equally important to review designs and determine areas of improvement. I often review new technologies
+  and, through discussion with my peers, evaluate how effective or efficient the design is. The topic often varies, but common topics include semiconductor fabrication techniques, game design, and DIY projects!
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Simulation and AI
+  description: In step with my other interests, I follow publications on AI techniques and fluid simulation advances. I consider both technologies to be tools I have yet to master, but
+  the usefullness of each cannot be overstated! I often marvel at the simplicity of some newer implementaion techniques for both technologies.
 
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Developing myself as a developer
+  description: I believe that there is much to gain by studying the solutions, workflows, standards, and even the thought processes of varying disciplines. 
+  In taking a leap away from my background towards software development. I hope to climb higher and provide a new perspective to the problems of both professions... and any others that
+  I may cross paths with!
