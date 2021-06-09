@@ -1,11 +1,11 @@
 #If you have some testimonials list them here
 
-- quote: 'King Player'
-  person: Batman
-    name: Russell
-    title: TrollInc
+- quote : 'King Player'
+  person : Batman
+    name : Russell
+    title : TrollInc
 
-- quote: 'Really cooooool!'
-  person: Jimb0Slice
-    name: James M
-    title: SwagMaster Jr at IBM
+- quote : 'Really cooooool!'
+  person : Jimb0Slice
+    name : James M
+    title : SwagMaster Jr at IBM
