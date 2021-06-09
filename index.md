@@ -1,7 +1,7 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
+title:  Who is 森-さん?
+author: Isaiah Mori 
+description: "Welcome! Let me introduce myself!"
 layout: default
 permalink: /
 ---
